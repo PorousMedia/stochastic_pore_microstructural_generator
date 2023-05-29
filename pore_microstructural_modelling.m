@@ -18,7 +18,8 @@
 % pore-microstructural and flow modelling of carbonate rocks.
 % DOI: 
 
-% This code creates CSV files for pore bodies and pore throats, which are needed to generate 3D pore microstructures in STAR-CCM+.
+% This code creates CSV files for pore bodies and pore throats of
+% stochastically generated 3D pore microsturtures. The files are intended to make 3D images/ surface files and run simulations in STAR-CCM+.
 
 % Clear memory.
 clear
